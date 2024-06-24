@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Información sobre la Cannabis</title>
+<link rel="stylesheet" href="informacion.css">
+</head>
+<body>
+
+<h2>Cannabis</h2>
+
+<table>
+  <tr>
+    <th colspan="2"></th>
+  </tr>
+  <tr>
+    <td>Nombre científico</td>
+    <td>Cannabis sativa</td>
+  </tr>
+  <tr>
+    <td>Descripcion</td>
+    <td>Es una planta herbacea que puede crecer hasta varios metros de altura. Tiene hojas palmadas con foliolos lancealados y aserrados. Las flores son pequeñas y unisexuales y se agrupan en inflarescencias llamados racimos. Las plantas de cannabis 
+        se utilizan comunmente por propiedades psicoactivas y medicinales, gracias a los compuestos quimicos que contiene, como el tetrahidro cannabinol(THC) y el cannabidiol(CBD).
+    </td>
+  </tr>
+  <tr>
+    <td>Para que sirve </td>
+    <td>Aliviar el dolor. Esto incluye distintos tipos de dolor crónico, incluso dolor por lesiones nerviosas.
+        Controlar las náuseas y los vómitos. El uso más común es para las náuseas y los vómitos provocados por la quimioterapia para el cáncer.
+        Hacer que una persona sienta ganas de comer. Esto ayuda a personas que no comen suficiente y pierden peso debido a otras enfermedades, como el VIH/SIDA y el cáncer.</td>
+  </tr>
+  <tr>
+    <td>¿Qué padecimientos médicos califican?</td>
+    <td>Cáncer
+        VIH/SIDA
+        Convulsiones y epilepsia
+        Glaucoma
+        Dolor crónico grave
+        Náuseas graves
+        Pérdida de peso y debilidad extrema (síndrome debilitante)
+        Espasmos musculares severos
+        Esclerosis múltiple</td>
+  </tr>
+  <tr>
+    <td>Efectos secundarios</td>
+    <td>Latidos cardíacos rápidos o irregulares
+        Mareos
+        Tiempos de reacción lentos
+        Somnolencia</td>
+  </tr>
+  <tr>
+    <td>¿Quién no debe utilizar marihuana medicinal?</td>
+    <td>Personas que presentan enfermedades cardíacas
+        Mujeres embarazadas
+        Personas con antecedentes de psicosis</td>
+  </tr>
+  <tr>
+    <td>Medicamentos con receta a base de compuestos de marihuana</td>
+    <td>Dronabinol (Marinol). Este medicamento trata las náuseas y el vómito provocado por la quimioterapia y la pérdida del apetito y de peso en personas con VIH/SIDA.
+        Nabilona (Cesamet). Este medicamento trata las náuseas y el vómito provocado por la quimioterapia en personas que no han conseguido alivio con otros tratamientos.</td>
+  </tr>
+  <tr>
+    <th colspan="2">¿Cómo se consume el cannabis medicinal?</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>Hay una variedad de formas de consumir marihuana medicinal, incluyendo fumar, vaporizar y comer. Cada método tiene sus propios beneficios e inconvenientes. </li>
+        <li>Fumar es la forma más común de consumo, y también es la manera más rápida de sentir los efectos de la droga. Sin embargo, también puede ser duro para los pulmones y puede no ser adecuado para aquellos con problemas respiratorios.</li>
+        <li>La vaporización de la marihuana medicinal es una alternativa menos dañina que fumar, y también permite a los pacientes controlar con mayor precisión su dosis.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">Usos culinarios</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>Algunas preparaciones culinarias de cannabis son los space cakes («pasteles espaciales») o el majún
+               <ul>
+          </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">Elaboración de licores</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">Beneficios para la salud</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>La vitamina C de la naranja de cucho ayuda a fortalecer el sistema inmunológico y combatir las infecciones.</li>
+        <li>La fibra ayuda a mejorar la digestión y prevenir el estreñimiento.</li>
+        <li>El potasio ayuda a regular la presión arterial y la función muscular.</li>
+        <li>Los antioxidantes de la naranja de cucho combaten los radicales libres y protegen las células del daño.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">Precauciones</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li>El jugo de naranja de cucho es muy ácido y puede irritar la piel y los ojos. Se recomienda evitar el contacto directo con el jugo y lavarse las manos después de usarlo.</li>
+        <li>Las personas con úlceras pépticas, reflujo ácido o esofagitis deben consultar con un médico antes de consumir naranja de cucho.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
